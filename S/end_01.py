@@ -41,4 +41,3 @@ if __name__ == '__main__':
 
     person = Person("Alexander", phone_number, person_address)
     print(person.get_phone_number())
-    print(person.get_address())
